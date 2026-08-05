@@ -26,6 +26,7 @@ Inventor of **Double Backend Architecture** — fusing Rust ⚙️ + Java ☕ in
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamChaos&show_icons=true&theme=tokyonight)
 
+
 ---
 
 © AdamChaos 2026 — Inventor of Double Backend (Java + Rust)
