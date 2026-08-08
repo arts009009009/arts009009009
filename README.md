@@ -13,6 +13,11 @@ Inventor of **Double Backend Architecture** — fusing Rust ⚙️ + Java ☕ in
   - Ubuntu (daily driver)  
   - Backup Ubuntu (failsafe)  
   - Kali Linux (ethical hacking practice)  
+- 🎨 Image editing with **GIMP**:  
+  - 4K editing workflows  
+  - Bloom & motion blur effects  
+  - Custom color enhancement  
+  - Creative image enhancement for chaos branding  
 
 ---
 
