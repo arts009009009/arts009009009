@@ -1,5 +1,7 @@
 # ⚡ arts009009009
 
+![GitCric](arts009009009.png)
+
 A programmer and gamer who loves to mess with code, web development, and Linux distros.  
 Inventor of **Double and Triple Backend Architecture** — fusing Rust ⚙️ + Java ☕ + GO in one backend.
 
